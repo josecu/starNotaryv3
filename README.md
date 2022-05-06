@@ -1,9 +1,13 @@
 Specify the Truffle version and OpenZeppelin version used in the project.
 =========================================================================
 Truffle v5.5.12 (core: 5.5.12)
+
 Ganache v^7.1.0
+
 Solidity - 0.8.0 (solc-js)
+
 Node v16.14.2
+
 Web3.js v1.5.3
 
 openzeppelin-contracts: ^4.0.0
